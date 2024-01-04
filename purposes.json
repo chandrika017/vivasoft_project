@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Meeting"
+    },
+    {
+      "id": 2,
+      "name": "Interview"
+    },
+    {
+      "id": 3,
+      "name": "Presentation"
+    },
+    {
+      "id": 4,
+      "name": "Training"
+    },
+    {
+      "id": 5,
+      "name": "Discussion"
+    }
+    // Add more purposes as needed
+  ]
+  
